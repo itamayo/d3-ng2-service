@@ -11,7 +11,6 @@ export * from 'd3-dsv';
 export * from 'd3-ease';
 export * from 'd3-force';
 export * from 'd3-format';
-export * from 'd3-geo';
 export * from 'd3-hierarchy';
 export * from 'd3-interpolate';
 export * from 'd3-path';
